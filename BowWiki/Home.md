@@ -2,20 +2,17 @@
 
 Welcome to the BoW wiki!
 
-Although hosted under the ``bow_orch`` repository, this wiki provides links to topics of interest for developers, testers and users of the BoW project across all the BoW apps.
+This wiki provides links to topics of interest for users, designers, developers, and testers of the BoW project across all the BoW apps.
 
-This is the wiki for all of the apps in this project.  The Trello boards associated with bow_orch are likewise the Kanban boards for the entire proejct, not only for that repository.
+This is the wiki for all of the apps in this project.
 
-Think of ``bow_orch`` as the Admin and Management app for the project. It handles set-ups, deployments and monitoring for each of the apps.  From a development perpsective, think of it as the Program Manager. And from a delivery perspective, it is like the Release Manager.
+Trello Kanban boards are used to track tasks at the project level for each app and for the overall Ball of Wax effort. GitHub is the code repository.  GitHub Issues and Pull Requests are used to identify, track and fix problems and incidents, and to review migration proposals.
 
-## BoW topics
+The Wiki has the following sub-sections:
 
-- How to create and manage a Python [virtualenv](/ballofwax/bow_orch/wiki/Virtualenv/)
-- Handling load balancing and security using [Nginx](/ballofwax/bow_orch/wiki/Nginx/)
-- How to deploy a Python application "the right way" using [setup.py](/ballofwax/bow_orch/wiki/SetupPy/)
-- Handling [orchestration](/ballofwax/bow_orch/wiki/Orchestration/) for configuration of Linux accounts and servers
-- Handling [encryption]((/ballofwax/bow_orch/wiki/Crypto/)) in the Ball of Wax
-- Making [REST calls]((/ballofwax/bow_orch/wiki/Rest/)) when using and testing the Ball of Wax (httpie, requests, tornado)
+- [Development](Development/HomeDevelopment/)
+- Glossary
+- Test Guide
 
 ## Wiki features
 
