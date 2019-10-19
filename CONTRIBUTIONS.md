@@ -30,6 +30,6 @@ Collaborators would be invited to join these channels:
 
 ## CONTRIBUTORS
 
-- "genuinemerit" [me](genuinemerit@pm.me) -- owner, admin, benevolent dictator, release manager
-- "dave" [myself](dave@davidstitt.solutions) -- developer and admin working mainly from Digital Ocean environment "bow-spt"
-- "ananda" [eye](davidestitt@gmail.com) -- developer and designer and documentor working mainly from home environment "ananda"
+- "genuinemerit" [me](mailto:genuinemerit@pm.me) -- owner, admin, benevolent dictator, release manager
+- "dave" [myself](mailto:dave@davidstitt.solutions) -- developer and admin working mainly from Digital Ocean environment "bow-spt"
+- "ananda" [eye](mailto:davidestitt@gmail.com) -- developer and designer and documentor working mainly from home environment "ananda"
