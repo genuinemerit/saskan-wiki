@@ -4,13 +4,14 @@ Welcome to the Development sub-wiki!
 
 ## BoW Development topics
 
-- How to create and manage a Python [virtualenv](/ballofwax/bow_orch/wiki/Virtualenv/)
-- Handling load balancing and security using [Nginx](/ballofwax/bow_orch/wiki/Nginx/)
-- How to deploy a Python application "the right way" using [setup.py](/ballofwax/bow_orch/wiki/SetupPy/)
-- Handling [Git submodules in Python](/ballofwax/bow_orch/wiki/SubModules/)
-- Handling [orchestration](/ballofwax/bow_orch/wiki/Orchestration/) for configuration of Linux accounts and servers
-- Handling [encryption]((/ballofwax/bow_orch/wiki/Crypto/)) in the Ball of Wax
-- Making [REST calls]((/ballofwax/bow_orch/wiki/Rest/)) when using and testing the Ball of Wax (httpie, requests, tornado)
+- How to create and manage a Python [virtualenv](Virtualenv.md)
+- Handling load balancing and security using [Nginx](Nginx.md)
+- How to deploy a Python application "the right way" using [setup.py](SetupPy.md)
+- Handling [Git submodules in Python](SubModules.md)
+- Handling [orchestration](Orchestration.md) for configuration of Linux accounts and servers
+- Handling [encryption]((Crypto.md)) in the Ball of Wax
+- Making [REST calls](Rest.md) when using and testing the Ball of Wax (httpie, requests, tornado)
+- Doing [unit testing](UnitTesting.md) for Python and Bash
 
 ## External inks of interest
 
