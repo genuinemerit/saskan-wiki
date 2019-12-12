@@ -4,6 +4,7 @@ Welcome to the Development sub-wiki!
 
 ## BoW Development topics
 
+- Ball of Wax [Architecture](Architecture.md)
 - How to create and manage a Python [virtualenv](Virtualenv.md)
 - Handling load balancing and security using [Nginx](Nginx.md)
 - How to deploy a Python application "the right way" using [setup.py](SetupPy.md)

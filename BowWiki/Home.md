@@ -10,7 +10,7 @@ Trello Kanban boards are used to track tasks at the project level for each app a
 
 The Wiki has the following sub-sections:
 
-- [Development](Development/HomeDevelopment/)
+- [Development](Development/HomeDevelopment.md)
 - Glossary
 - Test Guide
 
