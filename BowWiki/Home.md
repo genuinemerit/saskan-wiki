@@ -30,7 +30,7 @@ Wiki pages are normal files, with the .md extension. Edit and create them locall
 
 ## Syntax highlighting
 
-Highlight snippets of text use lexers, short names and mime types from the [Pygments](http://pygments.org/ )library.
+Highlight snippets of text use lexers, short names and mime types from the [Pygments](http://pygments.org/) library.
 
 Example of Python code:
 
