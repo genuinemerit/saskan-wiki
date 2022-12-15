@@ -17,19 +17,26 @@ The Wiki has the following sub-sections:
 
 ## Wiki features
 
-This wiki uses both HTML and the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
+This wiki Repo hosts both HTML pages and files in the [Markdown](http://daringfireball.net/projects/markdown/) syntax.
 
-The wiki is a public git repository:
+saskan-wiki is a public git repository. To clone it:
 
 ```bash
 git clone https://github.com/genuinemerit/saskan-wiki
 ```
-
 Currently there is only a __master__ branch.
 
-Wiki pages are edited and create them locally, then added, committed, pushed to GitHub as normal.
+The HTML (and other) files stored in the repo, but not hosted under its wiki sub-repo, are used as reference materials. They may or may not eventually be incorporated into the wiki itself, or into other documentation or Help systems.
 
-## Syntax highlighting
+
+The actual wiki pages are edited and created in the `wiki` sub-system of this repo. That is effectively a separate repo. To locally edit the MD files in the wiki itself:
+
+```bash
+git clone https://github.com/genuinemerit/saskan-wiki/wiki/wiki.git
+```
+
+
+## Markdown syntax highlighting
 
 Highlight snippets of text use lexers, short names and mime types from the [Pygments](http://pygments.org/) library.
 
