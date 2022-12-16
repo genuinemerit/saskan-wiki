@@ -13,23 +13,8 @@ Configuration data are coded as editable JSON files. These are loaded to the app
  In Linux terms, the records are files stored either under the application directory, which resides under the user's home directory, or in shared memory. The "data" space is a directory; the "config" and "game" are its subdirectories. The "save" and "images" spaces are a subdirectories of the application directory.
 
  From a design and architecture point of view, information about data can be divided into several categories:
- * [Namespaces](./data_namespaces.html)* [Record types](./data_record_types.html)* [Record structures](./data_record_structs.html)* [Graph Data structures](./data_graphs.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ * [Namespaces](Namespaces)
+ * [Record types](Record_Types)
+ * [Record structures](Record_Structures)
+ * [Graph Data structures](Graphs)
 
