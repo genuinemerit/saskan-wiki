@@ -1,6 +1,4 @@
-# Services
-
-## Overview of Application Services, Channels, Topics and Messages
+# Overview of Application Services, Channels, Topics and Messages
 
 A design goal is to make the application components flexible and robust by employing something like a micro-services architecture. The application is divided into a number of loosely coupled services, each of which is responsible for a specific task. The services communicate with each other using a message-based protocol. The services are implemented in Python, using the asyncio library. The services are designed to be modular and extensible.
 
