@@ -1,6 +1,4 @@
-# Ontology
-
-## Overview of Saskantinon Ontology
+# Overview of Saskantinon Ontology
 
 Rather than an entity-relationship diagram, the underlying data structures and concepts for the Saskan Game and its architecture are defined in a formal ontology. The intention is to work out a set of definitions, concepts, and meanings that might be appropriate for any game world of this type. The ontology is a work in progress, and is not yet complete.
  Ideally one or more schemas generated from the ontology will be used to define the data structures and relationships in the data namespaces.
