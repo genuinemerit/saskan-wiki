@@ -1,6 +1,4 @@
-# Game
-
-## Overview of Game Play
+# Overview of Game Play
 
 Pretty much all at the level of good intentions for now...
 
