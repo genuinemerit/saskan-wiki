@@ -1,7 +1,5 @@
 # Python Application Packaging
 
-## Why
-
 As I move towards wanting to deploy a Python app inside a container, starting with Pyhon venvs, but also (eventually) Docker containers, maybe conda environments, and so on, it makes sense to simplify the purely "app" part of the deployment as much as possible.
 
 My current approach to Python application architecture is pretty clean, with a relatively small number of diretories involved. But it stil requires something like doing a git pull or git clone.
