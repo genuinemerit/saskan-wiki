@@ -1,4 +1,4 @@
-# General Design and Development Notes
+# General Design Ideas and Preferred Patterns
 
 ## Main Behaviors
 
