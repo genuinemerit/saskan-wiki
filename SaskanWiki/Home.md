@@ -8,12 +8,6 @@ It provides links to topics of interest for users, designers, developers, and te
 
 GitHub is the code repository.  GitHub Issues and Pull Requests are used to identify, track and fix problems and incidents, and to review migration proposals.
 
-The Wiki has the following sub-sections:
-
-- [DsignNotebook](DesignNotebook/d_Home.md)
-- [Architecture](Architecture/a_home.html)
-- [GameGuide](GameGuide/g_home.md)
-
 
 ## Wiki features
 
