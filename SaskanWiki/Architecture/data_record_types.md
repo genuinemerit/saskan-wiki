@@ -1,4 +1,4 @@
-# Records
+# Record Type / Categories of Data
 
 Most stored textual and numerical data is organized as JSON data.
 
