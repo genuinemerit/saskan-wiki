@@ -1,6 +1,4 @@
-# Musicology
-
-## Overview of Music in Saskantinon
+# Overview of Music in Saskantinon
 
 PyGame has methods for playing sound files of various types. The game uses these methods to play music and sound effects. The music is played in a loop, and the sound effects are played once. Generally speaking, the music is played in the background, and the sound effects are played in the foreground. The music is played at a default volume of 0.5, and the sound effects are played at a volume of 1.0.
 
