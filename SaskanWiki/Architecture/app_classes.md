@@ -1,6 +1,4 @@
-# Classes
-
-## Overview of Application Functions and Procedures
+# Overview of Application Functions and Procedures
 
 Along with its message-based services layer, the Saskan software ecosystem also uses several types of more traditional software components.
 
