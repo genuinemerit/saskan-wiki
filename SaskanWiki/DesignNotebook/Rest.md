@@ -1,6 +1,6 @@
-# Requesting and Listening for REST calls
+# Web-Based Messaging
 
-## Why
+## Requesting and Listening for REST calls
 
 Representational State Transfer is a widely used pattern. It helps to keep code organized, and it encourages
 us to think in terms of Services.  This in turn creates an architecture that is flexible, anti-monolithic, adaptable

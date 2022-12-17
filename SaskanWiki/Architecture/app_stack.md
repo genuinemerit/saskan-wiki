@@ -1,4 +1,4 @@
-# Technology Stack
+# Stack
 
 GUI engine: PyGame
 
@@ -10,13 +10,6 @@ GUI engine: PyGame
 
  The app ontology is managed as an OWL structure edited using the Protege editor. Relational database, if needed, will be implemented at first using SQLite, then likely to be moved to Postgres.
 
- Code is versioned on GitHub. The repository is:
- * https://github.com/genuinemerit/bow-data-schema
-* https://github.com/genuinemerit/bow-quiver
+ Code is versioned on public GitHub repository (genuinemerit/saskan-app)https://github.com/genuinemerit/saskan-app
 
-
-All testing and development takes place on Ubuntu Linux.
-
-
-
-
+All testing and development takes place on Ubuntu Linux at this time. Hoping to find contributors who can help me figure out how to package it up for MacOS, Windows and other Linux environments.
